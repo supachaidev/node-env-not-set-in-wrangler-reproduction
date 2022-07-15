@@ -1,5 +1,5 @@
 {
-  "name": "reproductions",
+  "name": "node-env-not-set-reproduction",
   "version": "0.0.0",
   "devDependencies": {
     "@cloudflare/workers-types": "^3.14.1",
